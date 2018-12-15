@@ -5,4 +5,4 @@ Fork version of "Azusa Colors".
 
 ## Font
 
-- [Flop Design Font](https://www.flopdesign.com/freefont/flopdesignfont.html)
+- [ぼくたちのゴシック２ボールド](https://fontopo.com/?p=98)
